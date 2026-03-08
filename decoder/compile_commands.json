@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "${workspaceFolder}/decoder",
+        "command": "clang -std=c11 -I${PVSNESLIB_HOME}/pvsneslib/include -I${PVSNESLIB_HOME}/devkitsnes/include -c src/main.c -o src/main.o",
+        "file": "src/main.c"
+    }
+]
