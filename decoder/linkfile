@@ -1,5 +1,6 @@
 [objects]
 ./src/main.obj
+./src/wokring.obj
 data.obj
 hdr.obj
 /Users/krzysztof/snesdev/pvsneslib/pvsneslib/lib/LoROM_SlowROM/crt0_snes.obj

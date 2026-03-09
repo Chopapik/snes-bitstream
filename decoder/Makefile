@@ -17,5 +17,5 @@ include $(PVSNESLIB_HOME)/devkitsnes/snes_rules
 
 # clean runs targets from snes_rules (cleanBuildRes, cleanRom, cleanGfx)
 # and removes generated font files
-clean: cleanBuildRes cleanRom cleanGfx
+clear: cleanBuildRes cleanRom cleanGfx
 	rm -f pvsneslibfont.pic pvsneslibfont.pal
